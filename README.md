@@ -126,8 +126,8 @@ Dim ws As Worksheet
 End Sub
 
 
-'References:: Stack_overflow
-Week_2:Day_3- Class activities
-https://www.tutorialspoint.com/vba/index.htm
+'References:: Stack_overflow, 
+Week_2:Day_3- Class activities, 
+https://www.tutorialspoint.com/vba/index.htm , 
 chatGpt
-![image](https://github.com/user-attachments/assets/3d0fe156-c93a-4027-81f0-8667d5eff2d4)
+
