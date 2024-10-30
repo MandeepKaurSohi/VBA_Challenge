@@ -249,10 +249,7 @@ Cells(4, 17) = Cells(i, 12).Value
 End If
 Next i
 Next
-
-End Sub
-![image](https://github.com/user-attachments/assets/44511504-e649-440d-8fa3-534f3f1687ca)
-
+end sub
 
 'References:: Stack_overflow, 
 Week_2:Day_3- Class activities, 
